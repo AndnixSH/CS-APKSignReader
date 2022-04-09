@@ -1,0 +1,17 @@
+C:\Users\ASUS\source\repos\APKSignReader\APKSignReader\bin\Release\net5.0-windows\win-x64\APKSignReader.exe
+C:\Users\ASUS\source\repos\APKSignReader\APKSignReader\bin\Release\net5.0-windows\win-x64\APKSignReader.deps.json
+C:\Users\ASUS\source\repos\APKSignReader\APKSignReader\bin\Release\net5.0-windows\win-x64\APKSignReader.runtimeconfig.json
+C:\Users\ASUS\source\repos\APKSignReader\APKSignReader\bin\Release\net5.0-windows\win-x64\APKSignReader.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\APKSignReader\APKSignReader\bin\Release\net5.0-windows\win-x64\APKSignReader.dll
+C:\Users\ASUS\source\repos\APKSignReader\APKSignReader\bin\Release\net5.0-windows\win-x64\ref\APKSignReader.dll
+C:\Users\ASUS\source\repos\APKSignReader\APKSignReader\bin\Release\net5.0-windows\win-x64\APKSignReader.pdb
+C:\Users\ASUS\source\repos\APKSignReader\APKSignReader\obj\Release\net5.0-windows\win-x64\APKSignReader.Form1.resources
+C:\Users\ASUS\source\repos\APKSignReader\APKSignReader\obj\Release\net5.0-windows\win-x64\APKSignReader.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\APKSignReader\APKSignReader\obj\Release\net5.0-windows\win-x64\APKSignReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\APKSignReader\APKSignReader\obj\Release\net5.0-windows\win-x64\APKSignReader.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\APKSignReader\APKSignReader\obj\Release\net5.0-windows\win-x64\APKSignReader.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\APKSignReader\APKSignReader\obj\Release\net5.0-windows\win-x64\APKSignReader.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\APKSignReader\APKSignReader\obj\Release\net5.0-windows\win-x64\APKSignReader.dll
+C:\Users\ASUS\source\repos\APKSignReader\APKSignReader\obj\Release\net5.0-windows\win-x64\ref\APKSignReader.dll
+C:\Users\ASUS\source\repos\APKSignReader\APKSignReader\obj\Release\net5.0-windows\win-x64\APKSignReader.pdb
+C:\Users\ASUS\source\repos\APKSignReader\APKSignReader\obj\Release\net5.0-windows\win-x64\APKSignReader.genruntimeconfig.cache

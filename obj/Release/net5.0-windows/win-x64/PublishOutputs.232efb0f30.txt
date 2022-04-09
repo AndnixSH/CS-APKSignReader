@@ -1,0 +1,5 @@
+C:\Users\ASUS\source\repos\APKSignReader\APKSignReader\bin\Release\net5.0-windows\publish\APKSignReader.exe
+C:\Users\ASUS\source\repos\APKSignReader\APKSignReader\bin\Release\net5.0-windows\publish\APKSignReader.dll
+C:\Users\ASUS\source\repos\APKSignReader\APKSignReader\bin\Release\net5.0-windows\publish\APKSignReader.deps.json
+C:\Users\ASUS\source\repos\APKSignReader\APKSignReader\bin\Release\net5.0-windows\publish\APKSignReader.runtimeconfig.json
+C:\Users\ASUS\source\repos\APKSignReader\APKSignReader\bin\Release\net5.0-windows\publish\APKSignReader.pdb
